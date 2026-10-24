@@ -3,7 +3,7 @@
 Individual project - Data Visualization (EFREI 2026)
 Alexis PERRIN - 20231191 - DE1
 
-App link: 
+App link: https://stapp2620231191perrinde1-65rzaojs3mjhdf6lrhp7tz.streamlit.app/
 Demo video: https://youtu.be/1cUqHSdnNII
 Storyboard: [assets/storyboard.pdf](assets/storyboard.pdf)
 
